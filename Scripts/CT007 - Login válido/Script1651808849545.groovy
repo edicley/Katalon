@@ -28,3 +28,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Swag Labs/input_st
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71'))
 
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_standard_userlocked_out_userproblem_u_0dff71'))
+
