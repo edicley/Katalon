@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT001 - Logar com usuário em branco e senha válida</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c946a49d-6f6d-491c-96ed-37dbd29fb7cf</testCaseGuid>
+</TestCaseEntity>

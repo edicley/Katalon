@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT004 - Logar com usuário válido e senha inválida</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40f97331-ddb5-48a9-9851-82cafae39173</testCaseGuid>
+</TestCaseEntity>

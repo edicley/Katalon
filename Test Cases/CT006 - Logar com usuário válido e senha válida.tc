@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT006 - Logar com usuário válido e senha válida</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69b5ec58-4f99-4ba4-80cb-aef5bbe89822</testCaseGuid>
+</TestCaseEntity>
