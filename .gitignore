@@ -13,9 +13,13 @@ build
 
 .classpath
 
+<<<<<<< HEAD
 .project
 /bin/
 /Libs/
 /.settings/
 /.classpath
 .svn/
+=======
+.project
+>>>>>>> 441eccc63f2dbe61d21749ba171a207ce0ddf9c9
